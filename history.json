@@ -1,0 +1,110 @@
+{
+  "anthropic": {
+    "name": "Anthropic SDK",
+    "series": [
+      {
+        "date": "2026-09-02",
+        "count": 259072
+      }
+    ]
+  },
+  "openai": {
+    "name": "OpenAI SDK",
+    "series": [
+      {
+        "date": "2026-09-02",
+        "count": 819712
+      }
+    ]
+  },
+  "langchain": {
+    "name": "LangChain",
+    "series": [
+      {
+        "date": "2026-09-02",
+        "count": 328832
+      }
+    ]
+  },
+  "ollama": {
+    "name": "Ollama",
+    "series": [
+      {
+        "date": "2026-09-02",
+        "count": 80896
+      }
+    ]
+  },
+  "llama-cpp": {
+    "name": "Llama.cpp bindings",
+    "series": [
+      {
+        "date": "2026-09-02",
+        "count": 7056
+      }
+    ]
+  },
+  "mistralai": {
+    "name": "Mistral SDK",
+    "series": [
+      {
+        "date": "2026-09-02",
+        "count": 13984
+      }
+    ]
+  },
+  "groq": {
+    "name": "Groq SDK",
+    "series": [
+      {
+        "date": "2026-09-02",
+        "count": 111616
+      }
+    ]
+  },
+  "cohere": {
+    "name": "Cohere SDK",
+    "series": [
+      {
+        "date": "2026-09-02",
+        "count": 12912
+      }
+    ]
+  },
+  "vercel-ai": {
+    "name": "Vercel AI SDK",
+    "series": [
+      {
+        "date": "2026-09-02",
+        "count": 299520
+      }
+    ]
+  },
+  "llama-index": {
+    "name": "LlamaIndex",
+    "series": [
+      {
+        "date": "2026-09-02",
+        "count": 18272
+      }
+    ]
+  },
+  "huggingface": {
+    "name": "HuggingFace Hub",
+    "series": [
+      {
+        "date": "2026-09-02",
+        "count": 87808
+      }
+    ]
+  },
+  "replicate": {
+    "name": "Replicate SDK",
+    "series": [
+      {
+        "date": "2026-09-02",
+        "count": 11536
+      }
+    ]
+  }
+}
